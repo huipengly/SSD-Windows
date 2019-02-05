@@ -16,7 +16,7 @@ Microsoft .NET Framework 4.6.2+
 
 Microsoft Visual C++ 2015 Redistributable (x86)
 
-无\[360/2345/百度\]全家桶
+~~无\[360/2345/百度\]全家桶~~
 
 ## Development - 开发
 
